@@ -92,4 +92,7 @@ https://furuhashilab.github.io/www4taroaoyama/
 リポジトリ
 https://github.com/furuhashilab/www4taroaoyama
 
+参考文献リスト
+https://docs.google.com/spreadsheets/d/1wVbuKaNTUx3rz3e7IKOGSEl2s_zNrb4rSj45vhFDlko/edit#gid=0
 
+© Furuhashi Laboratory/Shunsuke Yoda, CC BY 4.0
