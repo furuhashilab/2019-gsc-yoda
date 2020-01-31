@@ -3,8 +3,10 @@
 ゼミ論中間発表　資料
 https://docs.google.com/presentation/d/1vHwWEcqS_8aZ9g6NbdIwJ1u4stnA-tz6nxoDwG8hTUA/edit#slide=id.p
 
-ゼミ論　３年次最終発表
+ゼミ論　３年次最終発表資料
 https://docs.google.com/presentation/d/1OP4KKEh4fq6b6sq6iEggH0-kFI60jZNDS1x75Qipel8/edit#slide=id.g7ca7f632e3_0_0
+
+
 ゼミ論概要
 https://docs.google.com/document/d/1jrGcviVnRElw8BULDDynuPeheM814xyK43sttAnXJ8k/edit
 
