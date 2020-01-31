@@ -80,17 +80,10 @@ ingressは社会に良い影響をもたらすものではなく、あくまで�
 ## Acknowledgements/謝辞:
 本研究を進めるにあたり古橋氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
-# 本文
 
 
 
 
-卒論本文
-https://furuhashilab.github.io/www4taroaoyama/
-
-
-リポジトリ
-https://github.com/furuhashilab/www4taroaoyama
 
 参考文献リスト
 https://docs.google.com/spreadsheets/d/1wVbuKaNTUx3rz3e7IKOGSEl2s_zNrb4rSj45vhFDlko/edit#gid=0
